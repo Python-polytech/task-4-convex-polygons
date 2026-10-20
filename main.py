@@ -278,7 +278,7 @@ class ConsoleApp:
             "5": ("Триангуляция", self.triangulate),
         }
 
-    def create_regular(self) -> None:"
+    def create_regular(self) -> None:
         try:
             n = int(input("Вершин (>=3): "))
             r = float(input("Радиус: "))
