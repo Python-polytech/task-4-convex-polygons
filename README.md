@@ -4,8 +4,8 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/<ваш-логин>/task-convex-polygons.git
-cd task-convex-polygons
+[git clone https://github.com/<ваш-логин>/task-convex-polygons.git](https://github.com/Python-polytech/task-4-convex-polygons.git)
+task-4-convex-polygons
 ```
 
 ### 2. Требования
@@ -54,8 +54,8 @@ python main.py
 
 ## Структура проекта
 ```
-task-convex-polygons/
-├── main.py        # исходный код (классы Point, ConvexPolygon, Triangulator, Intersector, ConsoleApp)
+task-4-convex-polygons/
+├── main.py        # исходный код
 └── README.md      # этот файл
 ```
 
