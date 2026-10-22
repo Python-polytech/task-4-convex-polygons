@@ -4,8 +4,8 @@
 
 ### 1. Клонирование репозитория
 ```bash
-[git clone https://github.com/<ваш-логин>/task-convex-polygons.git](https://github.com/Python-polytech/task-4-convex-polygons.git)
-task-4-convex-polygons
+git clone https://github.com/Python-polytech/task-4-convex-polygons.git
+cd task-4-convex-polygons
 ```
 
 ### 2. Требования
